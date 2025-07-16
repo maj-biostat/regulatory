@@ -1,6 +1,7 @@
 project:
   type: website
   execute-dir: project
+  output-dir: docs
   render: 
     - "*.qmd"
     - "!reports/sim01-report.qmd"
