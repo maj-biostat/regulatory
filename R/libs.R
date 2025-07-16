@@ -7,6 +7,7 @@ suppressPackageStartupMessages(library("RSQLite"))
 suppressPackageStartupMessages(library("ggplot2"))
 suppressPackageStartupMessages(library("ggrepel"))
 suppressPackageStartupMessages(library("git2r"))
+suppressPackageStartupMessages(library("renv"))
 
 # install.packages(
 #   c(
