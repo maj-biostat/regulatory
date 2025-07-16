@@ -6,6 +6,10 @@ project:
     - "*.qmd"
     - "!reports/sim01-report.qmd"
 
+
+execute:
+  freeze: true
+  
 website:
   title: "Regulatory guidance notes"
   navbar:
