@@ -26,6 +26,7 @@ website:
     contents:
       - index.qmd
       - pages/ich-adaptive-designs-e20.qmd
+      - pages/dsmb-adaptive.qmd
       - pages/about.qmd
           
 format:
